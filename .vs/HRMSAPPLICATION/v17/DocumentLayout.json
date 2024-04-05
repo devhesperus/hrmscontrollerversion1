@@ -1,0 +1,1464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnetrepo\\HRMSAPPLICATION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\yearendscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\yearendscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\timecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\timecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\temptimecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\temptimecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\tempshiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\tempshiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\tempsattendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\tempsattendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\temppayinputscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\temppayinputscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\tempnetpayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\tempnetpayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\tempmusterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\tempmusterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\tempemployeeidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\tempemployeeidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\tempearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\tempearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\tempdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\tempdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\shiftpatternscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\shiftpatternscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\shiftmonthscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\shiftmonthscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\shiftdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\shiftdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\shiftbalancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\shiftbalancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\salarystructurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\salarystructurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\salaryperiodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\salaryperiodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\punchdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\punchdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\pfepfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\pfepfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\pfepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\pfepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payrollfinalsettlementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payrollfinalsettlementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payprocessescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payprocessescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payoutputpfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payoutputpfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payoutputnetpayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payoutputnetpayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payoutputloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payoutputloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payoutputesiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payoutputesiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payoutputearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payoutputearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payoutputdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payoutputdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payoutputactualscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payoutputactualscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymvpfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymvpfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymshiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymshiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paympfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paympfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paympermissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paympermissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paympaybillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paympaybillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymoverheadingcostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymoverheadingcostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymloandiminishingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymloandiminishingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymlevelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymlevelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymleaveallocation1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymleaveallocation1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymleavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymleavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymjobstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymjobstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymholidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymholidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymgradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymgradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymemployeeworkdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymemployeeworkdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymemployeeprofile1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymemployeeprofile1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymemployeeleavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymemployeeleavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymencashmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymencashmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymempearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymempearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymempdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymempdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymearningscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymdivisionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymdivisionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymdesignationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymdesignationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymdepartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymdepartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymdeductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymcomputationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymcomputationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymcompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymcompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymcarryforwardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymcarryforwardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymbranchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymbranchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\paymbankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\paymbankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\payinputscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\payinputscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\otslabscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\otslabscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\ondutiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\ondutiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\loanprecloserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\loanprecloserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\loanpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\loanpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\loanentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\loanentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\leavesettlementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\leavesettlementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\leaveapprovemanagerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\leaveapprovemanagerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\leaveapprovehrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\leaveapprovehrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\models\\leaveapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\models\\leaveapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\leaveallocationmasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\leaveallocationmasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\hrmmspecializationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\hrmmspecializationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\hrmmskillsmasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\hrmmskillsmasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\hrmmcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\hrmmcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\hrauthenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\hrauthenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\form7controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\form7controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\earndeductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\earndeductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\dailytimecardnewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\dailytimecardnewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\attendanceceilingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\attendanceceilingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnetrepo\\interview schedule\\interview schedule\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\models\\hrmsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\models\\hrmsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnetrepo\\interview schedule\\interview schedule\\interview schedule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|d:\\dotnetrepo\\hrmsapplication\\hrmsapplication\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6607DA7-6891-47A4-AC9E-E2E91ACAB556}|HRMSAPPLICATION\\HRMSAPPLICATION.csproj|solutionrelative:hrmsapplication\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\interview schedule\\interview schedule\\Program.cs",
+              "RelativeDocumentMoniker": "..\\interview schedule\\interview schedule\\Program.cs",
+              "ToolTip": "D:\\dotnetrepo\\interview schedule\\interview schedule\\Program.cs",
+              "RelativeToolTip": "..\\interview schedule\\interview schedule\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:16:36.186Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YearendsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\YearendsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\YearendsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\YearendsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\YearendsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:39:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeCardsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TimeCardsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TimeCardsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TimeCardsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TimeCardsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:38:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TempTimecardsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempTimecardsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempTimecardsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempTimecardsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempTimecardsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:37:13.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TempshiftsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempshiftsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempshiftsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempshiftsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempshiftsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:35:57.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TempsattendancesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempsattendancesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempsattendancesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempsattendancesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempsattendancesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:34:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TempPayinputsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempPayinputsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempPayinputsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempPayinputsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempPayinputsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:33:54.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TempNetpaysController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempNetpaysController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempNetpaysController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempNetpaysController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempNetpaysController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:32:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TempMustersController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempMustersController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempMustersController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempMustersController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempMustersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:31:29.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TempEmployeeIdsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempEmployeeIdsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempEmployeeIdsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempEmployeeIdsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempEmployeeIdsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:30:24.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TempEarningsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempEarningsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempEarningsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempEarningsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempEarningsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:29:23.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TempDeductionsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempDeductionsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\TempDeductionsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\TempDeductionsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\TempDeductionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:28:23.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShiftPatternsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftPatternsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\ShiftPatternsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftPatternsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\ShiftPatternsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:27:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShiftMonthsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftMonthsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\ShiftMonthsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftMonthsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\ShiftMonthsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:26:09.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShiftDetailsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftDetailsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\ShiftDetailsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftDetailsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\ShiftDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:25:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShiftBalancesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftBalancesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\ShiftBalancesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\ShiftBalancesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\ShiftBalancesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:23:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalaryStructuresController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\SalaryStructuresController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\SalaryStructuresController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\SalaryStructuresController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\SalaryStructuresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:22:31.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalaryPeriodsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\SalaryPeriodsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\SalaryPeriodsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\SalaryPeriodsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\SalaryPeriodsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:21:28.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PunchDetailsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PunchDetailsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PunchDetailsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PunchDetailsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PunchDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:20:32.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PfEpfsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PfEpfsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PfEpfsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PfEpfsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PfEpfsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:19:29.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PfEpsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PfEpsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PfEpsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PfEpsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PfEpsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:18:26.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PayrollFinalSettlementsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayrollFinalSettlementsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayrollFinalSettlementsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayrollFinalSettlementsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayrollFinalSettlementsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:17:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PayProcessesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayProcessesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayProcessesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayProcessesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayProcessesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:16:09.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PayOutputPfsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputPfsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayOutputPfsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputPfsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayOutputPfsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:15:09.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PayOutputNetPaysController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputNetPaysController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayOutputNetPaysController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputNetPaysController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayOutputNetPaysController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:14:09.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PayoutputLoansController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayoutputLoansController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayoutputLoansController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayoutputLoansController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayoutputLoansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:13:13.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PayOutputEsisController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputEsisController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayOutputEsisController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputEsisController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayOutputEsisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:12:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PayOutputEarningsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputEarningsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayOutputEarningsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputEarningsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayOutputEarningsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:10:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PayOutputDeductionsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputDeductionsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayOutputDeductionsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputDeductionsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayOutputDeductionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:09:18.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PayOutputActualsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputActualsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayOutputActualsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayOutputActualsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayOutputActualsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:07:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymVpfsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymVpfsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymVpfsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymVpfsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymVpfsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:06:42.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymShiftsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymShiftsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymShiftsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymShiftsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymShiftsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:05:30.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaymPfsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymPfsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymPfsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymPfsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymPfsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:04:28.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaymPermissionsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymPermissionsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymPermissionsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymPermissionsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymPermissionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:03:31.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaymPaybillsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymPaybillsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymPaybillsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymPaybillsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymPaybillsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:02:31.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PaymOverHeadingCostsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymOverHeadingCostsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymOverHeadingCostsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymOverHeadingCostsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymOverHeadingCostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:01:27.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymLoanDiminishingsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLoanDiminishingsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymLoanDiminishingsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLoanDiminishingsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymLoanDiminishingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:00:10.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymLoansController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLoansController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymLoansController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLoansController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymLoansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:58:21.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaymLevelsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLevelsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymLevelsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLevelsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymLevelsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:56:42.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PaymLeaveAllocation1Controller.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLeaveAllocation1Controller.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymLeaveAllocation1Controller.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLeaveAllocation1Controller.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymLeaveAllocation1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:55:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymLeavesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLeavesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymLeavesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymLeavesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymLeavesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:54:09.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymJobStatusController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymJobStatusController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymJobStatusController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymJobStatusController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymJobStatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:53:11.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PaymHolidaysController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymHolidaysController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymHolidaysController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymHolidaysController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymHolidaysController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:52:02.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PaymGradesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymGradesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymGradesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymGradesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymGradesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:51:08.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaymEmployeeWorkDetailsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeeWorkDetailsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEmployeeWorkDetailsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeeWorkDetailsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEmployeeWorkDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:49:51.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PaymEmployeeProfile1Controller.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeeProfile1Controller.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEmployeeProfile1Controller.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeeProfile1Controller.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEmployeeProfile1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:48:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PaymEmployeeLeavesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeeLeavesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEmployeeLeavesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeeLeavesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEmployeeLeavesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:47:41.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PaymEncashmentDetailsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEncashmentDetailsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEncashmentDetailsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEncashmentDetailsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEncashmentDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:45:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaymEmployeesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEmployeesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmployeesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:44:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymEmpEarningsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmpEarningsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEmpEarningsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmpEarningsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEmpEarningsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:43:30.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PaymEmpDeductionsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmpDeductionsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEmpDeductionsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEmpDeductionsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEmpDeductionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:42:19.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PaymEarningsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEarningsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymEarningsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymEarningsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymEarningsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:41:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PaymDivisionsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDivisionsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymDivisionsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDivisionsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymDivisionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:40:34.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PaymDesignationsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDesignationsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymDesignationsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDesignationsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymDesignationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PaymDepartmentsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDepartmentsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymDepartmentsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDepartmentsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymDepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:38:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PaymDeductionsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDeductionsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymDeductionsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymDeductionsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymDeductionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:37:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PaymComputationsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymComputationsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymComputationsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymComputationsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymComputationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:36:29.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PaymCompaniesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymCompaniesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymCompaniesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymCompaniesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymCompaniesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:35:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PaymCategoriesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymCategoriesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymCategoriesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymCategoriesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymCategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:34:21.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PaymCarryForwardsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymCarryForwardsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymCarryForwardsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymCarryForwardsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymCarryForwardsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:33:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PaymBranchesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymBranchesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymBranchesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymBranchesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymBranchesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:32:36.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PaymBanksController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymBanksController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PaymBanksController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PaymBanksController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PaymBanksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:31:13.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PayInputsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayInputsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\PayInputsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\PayInputsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\PayInputsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:29:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OtslabsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\OtslabsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\OtslabsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\OtslabsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\OtslabsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:28:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OndutiesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\OndutiesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\OndutiesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\OndutiesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\OndutiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:27:40.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoanPreClosersController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LoanPreClosersController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\LoanPreClosersController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LoanPreClosersController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\LoanPreClosersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:26:35.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LoanPostsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LoanPostsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\LoanPostsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LoanPostsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\LoanPostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:25:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LoanEntriesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LoanEntriesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\LoanEntriesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LoanEntriesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\LoanEntriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:24:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LeaveSettlementsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveSettlementsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\LeaveSettlementsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveSettlementsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\LeaveSettlementsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:23:25.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LeaveapproveManagersController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveapproveManagersController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\LeaveapproveManagersController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveapproveManagersController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\LeaveapproveManagersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:22:32.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LeaveapproveHrsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveapproveHrsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\LeaveapproveHrsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveapproveHrsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\LeaveapproveHrsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:21:08.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LeaveApply.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Models\\LeaveApply.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Models\\LeaveApply.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Models\\LeaveApply.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Models\\LeaveApply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:00:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "LeaveallocationMastersController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveallocationMastersController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\LeaveallocationMastersController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\LeaveallocationMastersController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\LeaveallocationMastersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:45:46.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "HrmmSpecializationsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrmmSpecializationsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\HrmmSpecializationsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrmmSpecializationsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\HrmmSpecializationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:44:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "HrmmSkillsMastersController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrmmSkillsMastersController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\HrmmSkillsMastersController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrmmSkillsMastersController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\HrmmSkillsMastersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:43:21.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HrmmCoursesController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrmmCoursesController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\HrmmCoursesController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrmmCoursesController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\HrmmCoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:42:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HrAuthenticationsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrAuthenticationsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\HrAuthenticationsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\HrAuthenticationsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\HrAuthenticationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:41:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Form7Controller.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\Form7Controller.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\Form7Controller.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\Form7Controller.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\Form7Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:40:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EarnDeductsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\EarnDeductsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\EarnDeductsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\EarnDeductsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\EarnDeductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:39:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DailyTimecardNewsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\DailyTimecardNewsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\DailyTimecardNewsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\DailyTimecardNewsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\DailyTimecardNewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:38:05.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AttendanceCeilingsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\AttendanceCeilingsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\AttendanceCeilingsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\AttendanceCeilingsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\AttendanceCeilingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:36:42.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Program.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Program.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Program.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:15:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "interview schedule.csproj",
+              "DocumentMoniker": "D:\\dotnetrepo\\interview schedule\\interview schedule\\interview schedule.csproj",
+              "RelativeDocumentMoniker": "..\\interview schedule\\interview schedule\\interview schedule.csproj",
+              "ToolTip": "D:\\dotnetrepo\\interview schedule\\interview schedule\\interview schedule.csproj",
+              "RelativeToolTip": "..\\interview schedule\\interview schedule\\interview schedule.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T07:16:14.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Controllers\\AssetsController.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Controllers\\AssetsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:15:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "HrmsystemContext.cs",
+              "DocumentMoniker": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Models\\HrmsystemContext.cs",
+              "RelativeDocumentMoniker": "HRMSAPPLICATION\\Models\\HrmsystemContext.cs",
+              "ToolTip": "D:\\dotnetrepo\\HRMSAPPLICATION\\HRMSAPPLICATION\\Models\\HrmsystemContext.cs",
+              "RelativeToolTip": "HRMSAPPLICATION\\Models\\HrmsystemContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:13:45.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
